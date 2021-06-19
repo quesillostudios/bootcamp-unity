@@ -5,8 +5,6 @@ using UnityEngine;
 // API
 public class Example : MonoBehaviour
 {
-    #region [MonoBehaviour API]
-
     void Start()
     {
 
@@ -17,6 +15,4 @@ public class Example : MonoBehaviour
     {
 
     }
-
-    #endregion
 }
