@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Module2
+namespace QuesilloStudios.Bootcamp.Module2
 {
     public class ComponentModifier : MonoBehaviour
     {
